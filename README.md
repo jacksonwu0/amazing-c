@@ -1,4 +1,4 @@
-Other Language here: [中文版](https://github.com/jacksonwu0/amazing-c/edit/main/README-zh.md)
+Other Language here: [中文版](https://github.com/jacksonwu0/amazing-c/README-zh.md)
 
 # amazing-c
 
