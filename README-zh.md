@@ -1,6 +1,6 @@
 Other Language here: [English](https://github.com/jacksonwu0/amazing-c/blob/main/README.md)
 
-# amazing-c
+# Amazing-C
 
 一份列表包含了很多适合拿来学习 C 语言的项目。
 
