@@ -1,4 +1,4 @@
-Other Language here: [English](https://github.com/jacksonwu0/amazing-c/README.md)
+Other Language here: [English](https://github.com/jacksonwu0/amazing-c/blob/main/README.md)
 
 # amazing-c
 
