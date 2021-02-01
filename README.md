@@ -1,6 +1,6 @@
 Other languages here: [中文](https://github.com/jacksonwu0/amazing-c/blob/main/README-zh.md)
 
-# amazing-c
+# Amazing-C
 
 A list of C projects that are good for learning C language.
 Of all these project are open source.
