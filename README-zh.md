@@ -12,6 +12,6 @@ Other Language here: [English](https://github.com/jacksonwu0/amazing-c/blob/main
 
 [Lua](https://www.lua.org/download.html)：Lua is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
 
-[cJson](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C.
+[cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C.
 
 Continuously updating...
