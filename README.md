@@ -30,4 +30,6 @@ You can learn much by reading these projects's source code.
 
 [CPython](https://github.com/python/cpython): The Python programming language.
 
+[Redis](https://github.com/redis/redis):Redis is an in-memory database that persists on disk. 
+
 Continuously updating...
