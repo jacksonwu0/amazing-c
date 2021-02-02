@@ -12,4 +12,6 @@ You can learn much by reading these projects's source code.
 
 [cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C.
 
+[Memcached](https://blog.csdn.net/wulong710/article/details/82013708): Free & open source, high-performance, distributed memory object caching system, generic in nature, but intended for use in speeding up dynamic web applications by alleviating database load.
+
 Continuously updating...
